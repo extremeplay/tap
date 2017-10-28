@@ -1,0 +1,24 @@
+Barem*:
+
+Fiecare subpunct (a,b etc.) al unei probleme va primi un punctaj partial,
+in functie de tipul lui (implementare/intrebare).
+
+Barem notare subpunct intrebare (0% - 100%/subpunct)
+- raspuns da/nu fara justificarea corectitudinii / contraexemplu: 0%
+- justificarea corectitudinii / furnizarea unui contraexemplu: 100%
+
+Barem notare subpunct implementare (0% - 100%/subpunct):
+
+- solutie incorecta si/sau lipseste descrierea solutiei/justificarea corectitudinii: 0%
+
+- solutie corecta, neoptimala: 70%
+- solutie corecta, optimala: 100%
+
+- Bonus:
+  - coding style**: 10%
+
+**Vezi:
+https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html
+
+*Anti-cheating policies and guidelines:
+http://www.cs.columbia.edu/education/honesty/
